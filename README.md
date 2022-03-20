@@ -1,6 +1,4 @@
 <h1><a href="https://gigantic-bag-3e7.notion.site/Vote24-1476ff878d3640789014d739cb83bc59">:link: Project Notion</a></h1>
 
-![슬라이드3](https://user-images.githubusercontent.com/87457901/159167436-cc818aa0-a3c0-4d42-bc2e-b0f6e79e9ce5.JPG)
-![슬라이드4](https://user-images.githubusercontent.com/87457901/159167445-db65743b-1862-420a-9bb9-ef7ae76a034e.JPG)
-
-
+![슬라이드5](https://user-images.githubusercontent.com/87457901/159168645-4e5623c3-bb88-4996-a781-fd385802fd0e.JPG)
+![슬라이드6](https://user-images.githubusercontent.com/87457901/159168648-4a31584a-68e4-4563-8ffc-4d513648259f.JPG)
